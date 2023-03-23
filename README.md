@@ -12,4 +12,4 @@ Eu sou um engenheiro de software Flutter, meu foco é criar dispositivos móveis
 
 Acabo de me formar como desenvolvedor **Flutter Mobile:Android/IOS** pela **LovePeople**.☕ ☕ ☕ 
 
-Sinta-se livre para entrar em contato comigo via **E-mail:**  **Linkedin**.
+Sinta-se livre para entrar em contato comigo via **E-mail** ou **Linkedin**.
